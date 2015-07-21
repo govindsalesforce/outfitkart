@@ -1,4 +1,4 @@
-//This a wrapper for hold product status
+//This a wrapper for hold product select status
 public class ProductWrapper{
         public Product2 pwPro{get;set;}
         public Boolean isSelected{get;set;}
