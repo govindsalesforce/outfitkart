@@ -4,6 +4,7 @@ public class OutfitListController {
     public String email{get;set;}
     public OutfitListController(){
     	System.debug('This is outfitListController....');
+    	//above message added in outfitkartv1.0 in eclipse
         Map<String,String> parameters=ApexPages.currentPage().getParameters();
         name=parameters.get('name');
         email=parameters.get('email');
