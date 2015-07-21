@@ -3,5 +3,6 @@ public class KartController {
     public Map<Outfit__c,List<Product2>>  newKarts{get;set;}
     public KartController(){
         System.debug('This is kart controller');
+        //above line added in github for testing purpose
     }
 }
