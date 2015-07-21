@@ -5,11 +5,6 @@
     <description>Bootstrap Implementation for VisualForce</description>
     <namespacePrefix>vs</namespacePrefix>
     <types>
-        <members>Visualstrap</members>
-        <members>VisualstrapTests</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
         <members>alert</members>
         <members>badge</members>
         <members>buttongroup</members>
@@ -18,8 +13,6 @@
         <members>formblock</members>
         <members>formgroup</members>
         <members>glyph</members>
-        <members>grid</members>
-        <members>griditem</members>
         <members>importvisualstrap</members>
         <members>jumbotron</members>
         <members>label</members>
